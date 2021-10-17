@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Topics/Declaring classes/Playing with time/out/
+/Topics/Declaring classes/Playing with time/out/production/classes/
+/Topics/Equality/Referential equality/out/
+/Topics/Equality/Referential equality/out/production/classes/
+/Topics/For loop and arrays/Individual taxes/out/
+/Topics/For loop and arrays/Individual taxes/out/production/classes/
+/Topics/Named arguments/Car speed/out/
+/Topics/Named arguments/Car speed/out/production/classes/
+/Topics/Named arguments/Deposit/out/
+/Topics/Named arguments/Deposit/out/production/classes/
+/Topics/Processing strings/Cutting out the middle of a string/out/
+/Topics/Processing strings/Cutting out the middle of a string/out/production/classes/
